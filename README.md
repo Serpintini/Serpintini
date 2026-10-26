@@ -33,7 +33,7 @@ Email: serpintini@gmail.com <br>
 [Tutorial Doc](https://docs.google.com/document/d/1iZrzErc-dPOXbxauXyi6YZtj9cf-lXrF4YAF2DSfbQA/edit?tab=t.0) <br>
 [Clock CAD (messy)](https://cad.onshape.com/documents/eca4312b32d618e7bc61fd4d/w/82d5ac8b60a29dd58e6fe4bc/e/d12f271c93ee3d991cfadf66?renderMode=0&uiState=6adfc3b86de4d7ca6fd11086) <br>
 
-##Sudoku Solver (in progress, chopped)
+## Sudoku Solver (in progress, chopped)
 [Repository](https://github.com/Serpintini/sudoku-solver) <br>
 
 
