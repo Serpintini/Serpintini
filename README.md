@@ -13,6 +13,9 @@ Email: serpintini@gmail.com <br>
 [Video Presentation](https://drive.google.com/file/d/11L4dfZKfXeixIKX4utcCS2wymoxE3lPx/view?usp=drive_link) <br>
 [Poster](https://drive.google.com/drive/u/1/folders/1Ycz-FEQuKZ-lqEfoZLyuFi6ScppwLTgy) <br>
 
+## Skyblock Stat Tracker (currently nonfunctional) <br>
+[Repository](https://github.com/Serpintini/skydugeon) <br>
+
 ## Into The Deep
 [Repository](https://github.com/Runtime-Terror-22105/Terror481) <br>
 [Portfolio for Michina (Inspire 3)](https://cdn.hivemindrobotics.net/portfolios/22105-itd.pdf0) <br>
@@ -29,6 +32,10 @@ Email: serpintini@gmail.com <br>
 [Repo with code examples](https://github.com/Serpintini/Arduino-DMX) <br>
 [Tutorial Doc](https://docs.google.com/document/d/1iZrzErc-dPOXbxauXyi6YZtj9cf-lXrF4YAF2DSfbQA/edit?tab=t.0) <br>
 [Clock CAD (messy)](https://cad.onshape.com/documents/eca4312b32d618e7bc61fd4d/w/82d5ac8b60a29dd58e6fe4bc/e/d12f271c93ee3d991cfadf66?renderMode=0&uiState=6adfc3b86de4d7ca6fd11086) <br>
+
+##Sudoku Solver (in progress, chopped)
+[Repository](https://github.com/Serpintini/sudoku-solver) <br>
+
 
 
 
